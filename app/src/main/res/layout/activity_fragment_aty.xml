@@ -9,10 +9,10 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:id="@+id/fragmentAty"
-    tools:context="io.github.sruby.middlestudy.FragmentAty">
+    tools:context=".fragment.FragmentAty">
 
    <!-- <fragment
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="io.github.sruby.middlestudy.FirstFragment"></fragment>-->
+        android:name="io.github.sruby.middlestudy.fragment.FirstFragment"></fragment>-->
 </LinearLayout>
