@@ -16,7 +16,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".fragment.FragmentAty">
-
+        </activity>
+        <activity
+            android:name=".fragment.SlideAty"
+            android:label="@string/title_activity_slide_aty"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 
